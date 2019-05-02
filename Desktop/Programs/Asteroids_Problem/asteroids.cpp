@@ -1,8 +1,6 @@
 //Programming Assignment
 //Submitted to: Dr Juan Gomez
 //Submitted by: Priyanshi Jajoo
-//Grade ID:37
-//STID: 013826618
 #include <iostream>
 #include <vector>
 //#include "asteroid.h"
